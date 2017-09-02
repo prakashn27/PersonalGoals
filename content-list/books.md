@@ -1,5 +1,5 @@
-# Books to Read
+# Books
 
-- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
-- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
-- [ ] That Book That I Have a Physical Copy of Counts, Too
+## Technical improvement
+## Self improvement
+- [ ] [Outliers:story of success](https://www.goodreads.com/book/show/3228917-outliers)
