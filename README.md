@@ -17,7 +17,7 @@ Personal goals made open source.
 - [ ] Revise Java concepts.
 
 ### Things I'll Do This Month: September 2017
-- [ ] Read "[Finding your Element](https://www.amazon.com/dp/0143125516/_encoding=UTF8?coliid=I2OI76DIZ8M65N&colid=2N0DJJ8FAWHA6)" book
+- [ ] Read "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)" book
 
 
 ### Backlog: Side Projects :)
