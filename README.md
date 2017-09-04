@@ -9,18 +9,18 @@ Personal goals made open source.
 
 # September 1, 2017
 
-### This Week's Goal: Finish mathematics for computer science.
+### This Week's Goal: ReactJS
 
 ## Things I'll Do This Week:
-- [ ] Watch 8 videos from MIT mathematics for computer science.
-- [ ] Revise Javascript concepts.
-- [ ] Revise Java concepts.
+- [ ] ReactJS Fundamentals from Pluralsight
+- [ ] Revise past web courses
 
 ### Things I'll Do This Month: September 2017
-- [ ] Read "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)" book
+- [ ] Read "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)" book upto 4 chapters
 
 
 ### Backlog: Side Projects :)
+- [ ] Web application with reactJS.
 
 ### Backlog: Code Things I Want to Do/Play With
 
