@@ -9,10 +9,10 @@ Personal goals made open source.
 
 # September 1, 2017
 
-### This Week's Goal: ReactJS
+### This Week's Goal: Dynamic Programming
 
 ## Things I'll Do This Week:
-- [ ] ReactJS Fundamentals from Pluralsight
+- [ ] Finish Dynamic Programming exercises
 - [ ] Revise past web courses
 
 ### Things I'll Do This Month: September 2017
