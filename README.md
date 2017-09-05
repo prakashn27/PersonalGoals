@@ -9,10 +9,10 @@ Personal goals made open source.
 
 # September 1, 2017
 
-### This Week's Goal: Dynamic Programming
+### This Week's Goal: Weighted Graph Algorithms
 
 ## Things I'll Do This Week:
-- [ ] Finish Dynamic Programming exercises
+- [ ] Finish learning about weighted graph algorithms
 - [ ] Revise past web courses
 
 ### Things I'll Do This Month: September 2017
