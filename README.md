@@ -1,18 +1,15 @@
 Personal Goals
 ==============
-
-Personal goals made open source.
-
 # Overarching Goals for 2017
 1. Getting the fundamentals of Computer Science Right.
-2. Finish 5 books from self improvement list.
+2. Finish 5 books from self improvement list (CEOs do 60 books per year).
 
 # September 1, 2017
 
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [ ] play with vanilla javascript, html, css.
+- [ ] finish 5 projects using vanilla javascript, html, css (follow [180 project list for ideas](https://jenniferdewalt.com/)).
 
 ### Things I'll Do This Month: September 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
