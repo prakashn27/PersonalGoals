@@ -9,19 +9,16 @@ Personal goals made open source.
 
 # September 1, 2017
 
-### This Week's Goal: Weighted Graph Algorithms
+### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [ ] Finish learning about weighted graph algorithms
-- [x] Revise Introduction to c and c++
-- [ ] Revise [Efffective programming in c and c++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/lecture-notes/)
+- [ ] play with vanilla javascript, html, css.
 
 ### Things I'll Do This Month: September 2017
-- [ ] Read "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)" book upto 4 chapters
-
+- [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
 
 ### Backlog: Side Projects :)
-- [ ] Web application with reactJS.
+- [ ] Revise [Efffective programming in c and c++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/lecture-notes/)
 
 ### Backlog: Code Things I Want to Do/Play With
 
