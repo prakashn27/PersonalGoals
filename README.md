@@ -4,7 +4,7 @@ Personal Goals
 1. Getting the fundamentals of Computer Science Right.
 2. Finish 5 books from self improvement list (CEOs do 60 books per year).
 
-# September 1, 2017
+# September 11, 2017
 
 ### This Week's Goal: HTML, CSS, JS revise
 
