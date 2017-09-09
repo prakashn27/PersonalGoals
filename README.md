@@ -9,6 +9,7 @@ Personal Goals
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
+- [ ] [Revise web application development](https://developer.mozilla.org/en-US/docs/Learn).
 - [ ] finish 5 projects using vanilla javascript, html, css (follow [180 project list for ideas](https://jenniferdewalt.com/)).
 
 ### Things I'll Do This Month: September 2017
