@@ -1,6 +1,6 @@
 Personal Goals
 ==============
-*[First do it, then do it right, then do it better](https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3)*
+**[First do it, then do it right, then do it better](https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3)**
 
 # Overarching Goals for 2017
 1. Getting the fundamentals of Computer Science Right.
