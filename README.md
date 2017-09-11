@@ -23,4 +23,3 @@ Personal Goals
 ### Backlog: Code Things I Want to Do/Play With
 
 ### Backlog: Personal Finance:
-- [ ] Analyse [COL](https://finance.yahoo.com/quote/COL?ltr=1) Stock.
