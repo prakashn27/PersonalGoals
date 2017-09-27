@@ -11,7 +11,7 @@ Personal Goals
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [x] [Revise Grids of web development.](https://developer.mozilla.org/en-US/docs/Learn).
+- [x] ~~[Revise Grids of web development.](https://developer.mozilla.org/en-US/docs/Learn).~~
 - [ ] [Revise JS fundamentals of web development.](https://developer.mozilla.org/en-US/docs/Learn).
 - [ ] Do personal page with layout design from html5 boilerplate.
 - [ ] [Set up gulp live reloading as template.](https://css-tricks.com/gulp-for-beginners/)
