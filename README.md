@@ -11,9 +11,10 @@ Personal Goals
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [ ] [Revise Grids of web development.](https://developer.mozilla.org/en-US/docs/Learn).
+- [x] [Revise Grids of web development.](https://developer.mozilla.org/en-US/docs/Learn).
 - [ ] [Revise JS fundamentals of web development.](https://developer.mozilla.org/en-US/docs/Learn).
 - [ ] Do personal page with layout design from html5 boilerplate.
+- [ ] [Set up gulp live reloading as template.](https://css-tricks.com/gulp-for-beginners/)
 
 ### Things I'll Do This Month: September 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
