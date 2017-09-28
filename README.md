@@ -19,6 +19,9 @@ Personal Goals
 ### Things I'll Do This Month: September 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
 
+### Refreshing List
+- [CSS notes](https://github.com/prakashn27/LearnWebDevelopment/blob/master/CSS.md)
+
 ### Backlog: Side Projects :)
 - [ ] Revise [Efffective programming in c and c++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/lecture-notes/)
 
