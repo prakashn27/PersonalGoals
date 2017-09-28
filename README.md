@@ -15,7 +15,7 @@ Personal Goals
 - [ ] [Revise JS fundamentals of web development.](https://developer.mozilla.org/en-US/docs/Learn).
 - [ ] Do personal page with layout design from html5 boilerplate.
 - [x] ~~[Set up gulp live reloading as template.](https://css-tricks.com/gulp-for-beginners/)~~
-
+- [ ] Add offline web app capability to template. specify how to perceive development mode with fetching offline files.
 ### Things I'll Do This Month: September 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
 
