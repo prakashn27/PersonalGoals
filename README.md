@@ -6,24 +6,24 @@ Personal Goals
 1. Getting the fundamentals of Computer Science Right.
 2. Finish 5 books from self improvement list (CEOs do 60 books per year).
 
-# September 11, 2017
+# October 2, 2017
 
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [x] ~~[Revise Grids of web development.](https://developer.mozilla.org/en-US/docs/Learn).~~
-- [ ] [Revise JS fundamentals of web development.](https://developer.mozilla.org/en-US/docs/Learn).
-- [ ] Do personal page with layout design from html5 boilerplate.
-- [x] ~~[Set up gulp live reloading as template.](https://css-tricks.com/gulp-for-beginners/)~~
+- [ ] Finish up personal page from vanilla code. 
 - [ ] Add offline web app capability to template. specify how to perceive development mode with fetching offline files.
-### Things I'll Do This Month: September 2017
+- [ ] Youtube watchlater videos.
+### Refreshing List this week
+- [ ] How to learn notes
+- [ ] CSS properties
+### Things I'll Do This Month: October 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
+- [ ] ReactJS pro.
 
-### Refreshing List
-- [CSS notes](https://github.com/prakashn27/LearnWebDevelopment/blob/master/CSS.md)
 
 ### Backlog: Side Projects :)
-- [ ] Revise [Efffective programming in c and c++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/lecture-notes/)
+- [ ] React demo app with grids.
 
 ### Backlog: Code Things I Want to Do/Play With
 
