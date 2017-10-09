@@ -11,19 +11,18 @@ Personal Goals
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [ ] Finish up personal page from vanilla code. 
-- [ ] Add offline web app capability to template. specify how to perceive development mode with fetching offline files.
-- [ ] Youtube watchlater videos.
+- [ ] 3 more small practive apps using React.
+
 ### Refreshing List this week
-- [ ] How to learn notes
-- [ ] CSS properties
+- [ ] JS notes
+- [ ] CSS propertities
+
 ### Things I'll Do This Month: October 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
 - [ ] ReactJS pro.
 
 
 ### Backlog: Side Projects :)
-- [ ] React demo app with grids.
 
 ### Backlog: Code Things I Want to Do/Play With
 
