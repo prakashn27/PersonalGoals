@@ -11,10 +11,12 @@ Personal Goals
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [ ] 3 more small practive apps using React.
+- [x] 3 more small practive apps using React.
+- [ ] [Finish redux bourse on egghead.io](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [ ] [Finish the course on youtube learn.codeacademy](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 
 ### Refreshing List this week
-- [ ] JS notes
+- [x] JS notes
 - [ ] CSS propertities
 
 ### Things I'll Do This Month: October 2017
