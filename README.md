@@ -13,6 +13,7 @@ Personal Goals
 ## Things I'll Do This Week:
 - [ ] Webpack for js.
 - [ ] [Finish redux bourse on egghead.io](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [ ] [NodeJS](http://book.mixu.net/node/)
 
 ### Refreshing List this week
 - [ ] React
