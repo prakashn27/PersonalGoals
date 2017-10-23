@@ -17,6 +17,7 @@ Personal Goals
   - [ ] 3 Wednesday
   - [ ] 4 Friday
   - [ ] 5 Saturday
+- [ ] http://www.pvv.org/~oma/DeepC_slides_oct2011.pdf
 
 ### Refreshing List this week
 - [ ] React
