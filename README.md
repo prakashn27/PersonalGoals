@@ -11,10 +11,12 @@ Personal Goals
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [ ] Webpack for js.
-- [ ] [Finish redux bourse on egghead.io](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-- [ ] [NodeJS](http://book.mixu.net/node/)
-- [ ] Set up ngnix in digital ocean.
+- [ ] [Finish 1-5 ecma standard](https://www.ecma-international.org/ecma-262/8.0/index.html)
+  - [ ] 1 Monday
+  - [ ] 2 Tuesday
+  - [ ] 3 Wednesday
+  - [ ] 4 Friday
+  - [ ] 5 Saturday
 
 ### Refreshing List this week
 - [ ] React
@@ -26,6 +28,8 @@ Personal Goals
 
 
 ### Backlog: Side Projects :)
+- [ ] [Finish redux bourse on egghead.io](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [ ] [NodeJS](http://book.mixu.net/node/)
 
 ### Backlog: Code Things I Want to Do/Play With
 
