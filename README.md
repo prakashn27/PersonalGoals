@@ -12,11 +12,11 @@ Personal Goals
 
 ## Things I'll Do This Week:
 - [ ] [Finish 1-5 ecma standard](https://www.ecma-international.org/ecma-262/8.0/index.html)
-  - [ ] 1 Monday
-  - [ ] 2 Tuesday
-  - [ ] 3 Wednesday
-  - [ ] 4 Friday
-  - [ ] 5 Saturday
+  - [ ] Scope - Monday
+  - [ ] Conformance - Tuesday
+  - [ ] Normative reference - Wednesday
+  - [ ] Overview - Thursday
+  - [ ] Notable conventions - Friday
 - [ ] http://www.pvv.org/~oma/DeepC_slides_oct2011.pdf
 
 ### Refreshing List this week
