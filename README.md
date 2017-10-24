@@ -17,7 +17,8 @@ Personal Goals
   - [ ]  - Wednesday
   - [ ]  - Thursday
   - [ ]  - Friday
-- [ ] http://www.pvv.org/~oma/DeepC_slides_oct2011.pdf
+- [ ] [Deep C slides](http://www.pvv.org/~oma/DeepC_slides_oct2011.pdf)
+- [ ] [Hammock Thinking](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 ### Refreshing List this week
 - [ ] React
