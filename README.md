@@ -6,25 +6,20 @@ Personal Goals
 1. Getting the fundamentals of Computer Science Right.
 2. Finish 5 books from self improvement list (CEOs do 60 books per year).
 
-# October 16, 2017
+# November 1, 2017
 
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [ ] [Finish 1-5 ecma standard](https://www.ecma-international.org/ecma-262/8.0/index.html)
-  - [ ] till 4.2 - Monday
-  - [ ]  4.3 and 5 - Tuesday
-  - [ ]  - Wednesday
-  - [ ]  - Thursday
-  - [ ]  - Friday
-- [ ] [Deep C slides](http://www.pvv.org/~oma/DeepC_slides_oct2011.pdf)
+- [ ] [Finish 5- ecma standard](https://www.ecma-international.org/ecma-262/8.0/index.html)
+- [ ] http://web.stanford.edu/class/cs142/lectures.html
 - [ ] [Hammock Thinking](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 ### Refreshing List this week
 - [ ] React
 - [ ] CSS propertities
 
-### Things I'll Do This Month: October 2017
+### Things I'll Do This Month: November 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
 - [ ] ReactJS pro.
 
