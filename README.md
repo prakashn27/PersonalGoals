@@ -13,6 +13,10 @@ Personal Goals
 ## Things I'll Do This Week:
 - [ ] [Finish 5- ecma standard](https://www.ecma-international.org/ecma-262/8.0/index.html)
 - [ ] http://web.stanford.edu/class/cs142/lectures.html
+  - [x] Intro, HTML, CSS, URL
+  - [ ] JS, DOM, Intro to front end
+  - [ ] Angular, SPA, RWD, WebApps
+  - [ ] Http, ServerCom, Webservers, Nodejs, Express
 - [ ] [Hammock Thinking](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 ### Refreshing List this week
