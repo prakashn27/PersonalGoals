@@ -12,20 +12,22 @@ Personal Goals
 
 ## Things I'll Do This Week:
 - [ ] [Finish 5- ecma standard](https://www.ecma-international.org/ecma-262/8.0/index.html)
-- [ ] http://web.stanford.edu/class/cs142/lectures.html
-  - [x] Intro, HTML, CSS, URL
-  - [ ] JS, DOM, Intro to front end
-  - [ ] Angular, SPA, RWD, WebApps
-  - [ ] Http, ServerCom, Webservers, Nodejs, Express
+
+ - [ ] https://egghead.io/courses/getting-started-with-redux
 - [ ] [Hammock Thinking](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 ### Refreshing List this week
 - [ ] React
 - [ ] CSS propertities
+- [ ] http://web.stanford.edu/class/cs142/lectures.html
+  - [x] Intro, HTML, CSS, URL
+  - [ ] JS, DOM, Intro to front end
+  - [ ] Angular, SPA, RWD, WebApps
+  - [ ] Http, ServerCom, Webservers, Nodejs, Express
 
 ### Things I'll Do This Month: November 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
-- [ ] ReactJS pro.
+- [ ] ReactJS and redux pro.
 
 
 ### Backlog: Side Projects :)
