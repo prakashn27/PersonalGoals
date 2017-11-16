@@ -6,12 +6,12 @@ Personal Goals
 1. Getting the fundamentals of Computer Science Right.
 2. Finish 5 books from self improvement list (CEOs do 60 books per year).
 
-# November 1, 2017
+# November 16, 2017
 
 ### This Week's Goal: HTML, CSS, JS revise
 
 ## Things I'll Do This Week:
-- [ ] [Finish 5- ecma standard](https://www.ecma-international.org/ecma-262/8.0/index.html)
+- [ ] [JS CORE](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition)
 
  - [ ] https://egghead.io/courses/getting-started-with-redux
 - [ ] [Hammock Thinking](https://www.youtube.com/watch?v=f84n5oFoZBc)
