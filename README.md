@@ -6,15 +6,12 @@ Personal Goals
 1. Getting the fundamentals of Computer Science Right.
 2. Finish 5 books from self improvement list (CEOs do 60 books per year).
 
-# November 16, 2017
+# December 2, 2017
 
-### This Week's Goal: HTML, CSS, JS revise
+### This Week's Goal: Getting strong in algos
 
 ## Things I'll Do This Week:
-- [ ] [JS CORE](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition)
-
- - [ ] https://egghead.io/courses/getting-started-with-redux
-- [ ] [Hammock Thinking](https://www.youtube.com/watch?v=f84n5oFoZBc)
+- [ ] Learn webpack and use it right
 
 ### Refreshing List this week
 - [ ] React
@@ -25,14 +22,12 @@ Personal Goals
   - [ ] Angular, SPA, RWD, WebApps
   - [ ] Http, ServerCom, Webservers, Nodejs, Express
 
-### Things I'll Do This Month: November 2017
+### Things I'll Do This Month: December 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
-- [ ] ReactJS and redux pro.
+- [ ] [Finish Coursera assignments from Dec 12](https://github.com/prakashn27/Algorithms/tree/master/University-Assignments/Princeton/algo2)
 
 
 ### Backlog: Side Projects :)
-- [ ] [Finish redux bourse on egghead.io](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-- [ ] [NodeJS](http://book.mixu.net/node/)
 
 ### Backlog: Code Things I Want to Do/Play With
 
