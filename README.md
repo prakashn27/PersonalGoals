@@ -14,8 +14,7 @@ Personal Goals
 - [ ] Learn webpack and use it right
 
 ### Refreshing List this week
-- [ ] React
-- [ ] CSS propertities
+- [ ] [Programming Methodology](https://see.stanford.edu/Course/CS106A)
 - [ ] http://web.stanford.edu/class/cs142/lectures.html
   - [x] Intro, HTML, CSS, URL
   - [ ] JS, DOM, Intro to front end
