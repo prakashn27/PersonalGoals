@@ -11,15 +11,9 @@ Personal Goals
 ### This Week's Goal: Getting strong in algos
 
 ## Things I'll Do This Week:
-- [ ] Learn webpack and use it right
+- [ ] [Programming Methodology](https://see.stanford.edu/Course/CS106A)
 
 ### Refreshing List this week
-- [ ] [Programming Methodology](https://see.stanford.edu/Course/CS106A)
-- [ ] http://web.stanford.edu/class/cs142/lectures.html
-  - [x] Intro, HTML, CSS, URL
-  - [ ] JS, DOM, Intro to front end
-  - [ ] Angular, SPA, RWD, WebApps
-  - [ ] Http, ServerCom, Webservers, Nodejs, Express
 
 ### Things I'll Do This Month: December 2017
 - [ ] Finish "[Outliers: Story of Success](https://www.goodreads.com/book/show/3228917-outliers)"
