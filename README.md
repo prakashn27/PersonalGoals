@@ -12,6 +12,7 @@ Personal Goals
 
 ## Things I'll Do This Week:
 - [ ] [Programming Methodology](https://see.stanford.edu/Course/CS106A)
+- [ ] All pair shortes path algorithms, overview of np complete problems.
 
 ### Refreshing List this week
 
