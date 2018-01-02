@@ -12,9 +12,10 @@ Personal Goals
 
 ## Things I'll Do This Week:
 
-### Refreshing List this week
+## Book I am Reading Now:
+- [How Google Works by Eric-Schmidt](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 
-### Things I'll Do This Month: December 2017
+### Things I'll Do This Month: Jan 2018
 
 ### Backlog: Side Projects :)
 
