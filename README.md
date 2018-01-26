@@ -17,8 +17,5 @@ Personal Goals
 
 ### Things I'll Do This Month: Jan 2018
 
-### Backlog: Side Projects :)
-
-### Backlog: Code Things I Want to Do/Play With
-
-### Backlog: Personal Finance:
+### Backlog: Revision list
+- [Competitive Programmer’s Handbook](https://cses.fi/book.pdf)
