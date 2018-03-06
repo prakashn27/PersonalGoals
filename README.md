@@ -6,10 +6,11 @@ Personal Goals
 1. [Teach yourself CS](https://teachyourselfcs.com/).
 2. Finish 5 books from self improvement list (CEOs do 60 books per year).
 
-# January 2, 2018
+# March 5, 2018
 
 ### This Week's Goal: 
-
+- [ ] Revise Dynamic, greedy, DC algorithm techniques.
+- [ ] Revise the basice of JAVA.
 ## Things I'll Do This Week:
 
 ## Book I am Reading Now:
