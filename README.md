@@ -11,10 +11,8 @@ Personal Goals
 ### This Week's Goal: 
 - [ ] [Segment Trees](http://codeforces.com/blog/entry/15890).
 
-## Book I am Reading Now:
-- [How Google Works by Eric-Schmidt](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
+### Things I'll Do This Month: June 2018
+- [ ] [Problems on Datastructures](http://codeforces.com/blog/entry/15729)
 
-### Things I'll Do This Month: Jan 2018
-
-### Backlog: Revision list
+### All Time Quick reference links:
 - [Competitive Programmer’s Handbook](https://cses.fi/book.pdf)
