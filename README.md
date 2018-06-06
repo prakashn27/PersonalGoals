@@ -16,3 +16,6 @@ Personal Goals
 
 ### All Time Quick reference links:
 - [Competitive Programmer’s Handbook](https://cses.fi/book.pdf)
+
+### Quotes:
+- "You solve about 20 Div1 500 problems in one week on TopCoder, and they will seem easy then" - Pradeep George Mathias
